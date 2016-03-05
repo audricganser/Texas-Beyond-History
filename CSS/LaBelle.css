@@ -1,4 +1,4 @@
-html,body {
+html,body, #overview{
   color: #CC3300;
 }
 
@@ -7,12 +7,12 @@ html,body {
 }
 
 .title {
-    height: 0px;
+    height: 25px;
 }
 /*button overview styles*/
 #overview {
-    margin-bottom: 10px;
-    float: right;
+    float: left;
+    cursor: pointer;
 }
 
 #namefade {
