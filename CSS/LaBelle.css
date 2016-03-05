@@ -63,6 +63,10 @@ html,body, #overview{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+    /*ship captions*/
+    font-weight: bold;
+    text-align: center;
+    padding-top: 29%;
 }
 
 
@@ -73,13 +77,6 @@ html,body, #overview{
     opacity: 1;
 }
 
-/*ship captions*/
-#ship p {
-    font-weight: bold;
-    text-align: center;
-    position: relative;
-    top: 95%;
-}
 
 /*ship black and white images*/
 #ship-aft {
