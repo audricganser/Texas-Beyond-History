@@ -226,6 +226,10 @@ html,body, #overview{
     width: 5%;
 }
 
+#content {
+    margin-top: 20px;
+}
+
 #content > div {
     display: none;
 }
@@ -235,6 +239,11 @@ html,body, #overview{
 #content.ship-main #content-main,
 #content.ship-bow #content-bow {
     display: block;
+}
+
+.carousel-inner>.item>img {
+    margin: 0 auto;
+    max-width: 90%;
 }
 
 .carousel-caption {
