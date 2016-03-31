@@ -99,10 +99,6 @@ html,body, #overview{
     background-color: rgba(200,0,0,.5);
 }
 
-.slideshow {
-    background-color: black;
-}
-
 /*ship main slide overlays*/
 .ship-main #overlay.slide-2 {
     display: block;
@@ -239,6 +235,10 @@ html,body, #overview{
 #content.ship-main #content-main,
 #content.ship-bow #content-bow {
     display: block;
+}
+
+.carousel {
+  background-color: black;
 }
 
 .carousel-inner>.item>img {
