@@ -9,6 +9,10 @@ html,body, #overview{
 .title {
     height: 25px;
 }
+
+.container {
+    width 780px;
+}
 /*button overview styles*/
 #overview {
     float: left;
