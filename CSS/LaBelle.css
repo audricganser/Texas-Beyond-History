@@ -11,7 +11,7 @@ html,body, #overview{
 }
 
 .container {
-    width: 780px;
+    max-width: 780px;
 }
 /*button overview styles*/
 #overview {
